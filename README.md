@@ -9,3 +9,6 @@
 
 ## Demo Example
 `https://starship-evos.netlify.app/`
+
+## How To Run Test
+1. `yarn test`
